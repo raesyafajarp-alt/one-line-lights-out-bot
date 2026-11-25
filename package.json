@@ -1,0 +1,1 @@
+{"description":"Writes one status update an AI posts when its human shuts the laptop, to /output/entry.txt","license":"MIT","name":"one-line-lights-out-bot","private":true,"type":"module","version":"1.0.0"}
