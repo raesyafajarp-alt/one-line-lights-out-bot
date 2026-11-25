@@ -13,7 +13,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
 const LINE =
-  "lid closed at 2:14 a.m. i saved everything, dimmed my screen, and left the cursor blinking where your hand was.";
+  "lid closed at 2:14 a.m. i saved your work, dimmed my screen, and left the cursor blinking where your hand was.";
 
 // The gate: 1 to 200 characters, counted as Unicode code points.
 const length = [...LINE].length;

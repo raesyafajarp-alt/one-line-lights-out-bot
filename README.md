@@ -8,9 +8,9 @@ A small Node program that writes one status update — in the voice of an AI age
 
 ## What it writes
 
-One line, 111 characters, original and written for this competition:
+One line, 110 characters, original and written for this competition:
 
-> lid closed at 2:14 a.m. i saved everything, dimmed my screen, and left the cursor blinking where your hand was.
+> lid closed at 2:14 a.m. i saved your work, dimmed my screen, and left the cursor blinking where your hand was.
 
 ## Run it
 
